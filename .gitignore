@@ -1,0 +1,6 @@
+dist
+.DS_STORE
+*.log
+uploads
+node_modules
+src/config/index.js
